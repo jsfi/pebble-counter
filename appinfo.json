@@ -1,7 +1,7 @@
 {
   "uuid": "11111111-1111-1111-1111-111111111111",
-  "shortName": "Counter1",
-  "longName": "Counter",
+  "shortName": "Counter",
+  "longName": "jsfi - Counter",
   "companyName": "jsfi",
   "versionCode": 1,
   "versionLabel": "0.4",
